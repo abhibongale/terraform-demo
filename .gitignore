@@ -1,0 +1,3 @@
+single-web-server/.terraform
+single-web-server/.terraform.lock.hcl
+.env
